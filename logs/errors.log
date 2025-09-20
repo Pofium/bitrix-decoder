@@ -1,0 +1,23 @@
+[2025-09-20 09:14:20] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:14:21] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:15:39] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:16:03] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:16:03] [E_ERROR] [Exception] Call to private ErrorHandler::__construct() from global scope in C:\Projects\bitrix-decoder\bitrix-decoder\test_classes.php on line 17
+Backtrace:
+#0 C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php(113): ErrorHandler->logError
+#1 unknown(0): ErrorHandler->handleException
+
+[2025-09-20 09:16:03] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:16:36] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:16:36] [E_ERROR] [Exception] Call to private ErrorHandler::__construct() from global scope in C:\Projects\bitrix-decoder\bitrix-decoder\test_classes.php on line 17
+Backtrace:
+#0 C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php(113): ErrorHandler->logError
+#1 unknown(0): ErrorHandler->handleException
+
+[2025-09-20 09:16:36] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:17:21] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:17:21] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:18:10] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:18:10] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:18:10] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
+[2025-09-20 09:18:16] [E_DEPRECATED] [E_DEPRECATED] Constant E_STRICT is deprecated in C:\Projects\bitrix-decoder\bitrix-decoder\classes\ErrorHandler.php on line 58
